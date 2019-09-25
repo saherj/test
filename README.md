@@ -1,6 +1,6 @@
 Author: Saher Jawaid
 
-# About Sushi App: Bakery
+# About Sushi App:
 This app is a sushi resturant app. It shows main image, list of sushi and see top selling sushis.
 
 # Install
